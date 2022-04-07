@@ -8,7 +8,7 @@
   At the beach, life is different.
 </h3>
 <p align="center">
-  Capitola is a minimalist light theme with a gray background, terminal colors, and a beach vibe. It's all about bringing joy and simplicity to your code. 
+  Capitola is a minimalist light theme with a gray background, terminal colors, and a beach vibe from the 90s. It's all about bringing joy and simplicity to your code.
 </p>
 
 ## Screenshots
