@@ -1,0 +1,38 @@
+{
+    "name": "capitola",
+    "displayName": "Capitola",
+    "description": "Capitola is a minimalist light theme with a gray background, terminal colors, and a beach vibe. It's all about bringing joy and simplicity to your code.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#008080",
+        "theme": "light"
+    },
+    "author": {
+        "name": "Vitor Nunes"
+    },
+    "homepage": "https://github.com/vitornovictor/capitola/blob/main/README.md",
+    "license": "https://github.com/vitornovictor/capitola/blob/main/LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vitornovictor/capitola.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vitornovictor/capitola/issues"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Capitola",
+                "uiTheme": "vs",
+                "path": "./themes/capitola-color-theme.json"
+            }
+        ]
+    }
+}
