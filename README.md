@@ -19,5 +19,8 @@
 
 ![Terminal](screenshots/terminal.png)
 
+## Other Tools
+* [iTerm2](https://github.com/VitorNoVictor/capitola/blob/main/iterm2/Capitola.itermcolors)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
