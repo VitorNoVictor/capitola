@@ -29,7 +29,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-<p align="center">
-  <img src="beach.jpg" alt="beach" width="90%"/>
-</p>
