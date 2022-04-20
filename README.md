@@ -13,11 +13,17 @@
 
 ## Screenshots
 
+### VSCode
+
 ![Main](screenshots/main.png)
 
 ![Widget](screenshots/widget.png)
 
 ![Terminal](screenshots/terminal.png)
+
+### JetBrains (PyCharm, IntelliJ, etc)
+
+![PyCharm](screenshots/pycharm.png)
 
 ## Installation
 
