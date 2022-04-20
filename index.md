@@ -8,7 +8,7 @@
 
 ![Terminal](screenshots/terminal.png)
 
-### JetBrains (PyCharm, IntelliJ, etc)
+### JetBrains (PyCharm, IntelliJ, etc.)
 
 ![PyCharm](screenshots/pycharm.png)
 
