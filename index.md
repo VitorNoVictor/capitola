@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="logo" width="30%"/>
-</p>
-<h1 align="center">
-  Capitola
-</h1>
-<h3 align="center">
-  At the beach, life is different.
-</h3>
-<p align="center">
-  Capitola is a minimalist light theme with a gray background, terminal colors, and a beach vibe from the 90s. It's all about bringing joy and simplicity to your code.
-</p>
-
 ## Screenshots
 
 ### VSCode
