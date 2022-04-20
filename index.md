@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <img src="logo.png" alt="logo" width="30%"/>
+</p>
+<h1 align="center">
+  Capitola
+</h1>
+<h3 align="center">
+  At the beach, life is different.
+</h3>
+<p align="center">
+  Capitola is a minimalist light theme with a gray background, terminal colors, and a beach vibe from the 90s. It's all about bringing joy and simplicity to your code.
+</p>
 
-You can use the [editor on GitHub](https://github.com/VitorNoVictor/capitola/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Screenshots
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Main](screenshots/main.png)
 
-### Markdown
+![Widget](screenshots/widget.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Terminal](screenshots/terminal.png)
 
-```markdown
-Syntax highlighted code block
+## Installation
 
-# Header 1
-## Header 2
-### Header 3
+* [JetBrains](https://plugins.jetbrains.com/)
+* [VSCode](https://marketplace.visualstudio.com/items?itemName=vitornovictor.capitola)
 
-- Bulleted
-- List
+## Versions
 
-1. Numbered
-2. List
+* [iTerm2](https://github.com/VitorNoVictor/capitola/blob/main/iterm2/Capitola.itermcolors)
+* [JetBrains](https://github.com/VitorNoVictor/capitola/blob/main/jetbrains/Capitola.icls)
+* [VSCode](https://github.com/VitorNoVictor/capitola/blob/main/vscode/themes/capitola-color-themes.json)
 
-**Bold** and _Italic_ and `Code` text
+## Contributing
 
-[Link](url) and ![Image](src)
-```
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VitorNoVictor/capitola/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
