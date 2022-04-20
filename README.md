@@ -27,7 +27,7 @@
 
 ## Installation
 
-* [JetBrains](https://plugins.jetbrains.com/)
+* [JetBrains](https://plugins.jetbrains.com/plugin/18983-capitola-color-scheme/)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=vitornovictor.capitola)
 
 ## Versions
